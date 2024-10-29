@@ -4,7 +4,7 @@ This is an open source firmware that manages the small applications/programs you
 
 There are some demo apps in default and you easily can remove, add or modify in source code the way you want.
 
-## USER INTERFACE STRUCTURE
+## User Interface Structure
 
 ### QUICK ACCESS
 
@@ -25,7 +25,7 @@ There are some demo apps in default and you easily can remove, add or modify in 
 
 - About of this firmware
 
-## Demo apps:
+## Demo Apps:
 
 Build in hardware:
 - Clock
