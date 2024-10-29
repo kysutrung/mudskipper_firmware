@@ -1,6 +1,6 @@
 # MUDSSKIPER FIRMWARE
 
-This is an open source firmware that manages the small applications you develop on the M5StickC Plus 2.
+This is an open source firmware that manages the small applications/programs you develop on the M5StickC Plus 2.
 
 There are some demo apps in default and you easily can remove, add or modify in source code the way you want.
 
@@ -8,7 +8,7 @@ There are some demo apps in default and you easily can remove, add or modify in 
 
 ### QUICK ACCESS
 
-- You can set the app you want to here
+- You can set the program you want to here
 
 ### PROGRAMS
 
