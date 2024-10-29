@@ -18,7 +18,7 @@ void setMainMenu(int num_a){
   StickCP2.Display.setCursor(40, 45);
   StickCP2.Display.printf("PROGRAMS");
   StickCP2.Display.setCursor(40, 75);
-  StickCP2.Display.printf("GENERAL SETING");
+  StickCP2.Display.printf("GENERAL SETTING");
   StickCP2.Display.setCursor(40, 105);
   StickCP2.Display.printf("ABOUT");
   

@@ -16,8 +16,9 @@ There are some demo apps in default and you easily can remove, add or modify in 
 
 ### GENERAL SETTING
 
-- Screen brighless
-- Battery display
+- Quick access app
+- Screen brightness
+- Battery check
 - Theme color
 
 ### ABOUT
@@ -26,7 +27,13 @@ There are some demo apps in default and you easily can remove, add or modify in 
 
 ## Demo apps:
 
-Module:
-   - DHT11
-   - DHT21
-   - LM35
+Build in hardware:
+- Clock
+- IMU
+- Microphone
+
+Sensor modules:
+- DHT11
+- DHT21
+- LM35
+
