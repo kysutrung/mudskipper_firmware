@@ -25,7 +25,7 @@ There are some demo apps in default and you easily can remove, add or modify in 
 
 - About of this firmware
 
-## Demo Apps:
+## Demo Apps
 
 Build in hardware:
 - Clock
