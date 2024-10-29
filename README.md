@@ -36,4 +36,8 @@ Sensor modules:
 - DHT11
 - DHT21
 - LM35
+- LM393 soil moisture sensor
+
+Other modules:
+- SG90 servo
 
