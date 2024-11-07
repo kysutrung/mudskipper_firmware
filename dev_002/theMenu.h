@@ -8,7 +8,7 @@
 //GLOBAL VAR
 extern int MAIN_MENU_MODE;
 extern int LAST_MAIN_MENU_MODE;
-extern int HAVE_ACCESS_THIS_MODE;
+extern bool HAVE_ACCESS_THIS_MODE;
 
 // Khai báo các hàm
 void getButtonz();
