@@ -25,19 +25,4 @@ There are some demo apps in default and you easily can remove, add or modify in 
 
 - About of this firmware
 
-## Demo Apps
-
-Build in hardware:
-- Clock
-- IMU
-- Microphone
-
-Sensor modules:
-- DHT11
-- DHT21
-- LM35
-- LM393 soil moisture sensor
-
-Other modules:
-- SG90 servo
 
